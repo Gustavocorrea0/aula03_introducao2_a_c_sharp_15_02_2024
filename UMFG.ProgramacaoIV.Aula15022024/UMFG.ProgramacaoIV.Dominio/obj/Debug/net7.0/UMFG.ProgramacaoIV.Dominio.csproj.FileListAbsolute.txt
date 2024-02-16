@@ -1,0 +1,12 @@
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.deps.json
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\bin\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.AssemblyReference.cache
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfoInputs.cache
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.AssemblyInfo.cs
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.csproj.CoreCompileInputs.cache
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.dll
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\refint\UMFG.ProgramacaoIV.Dominio.dll
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\UMFG.ProgramacaoIV.Dominio.pdb
+D:\5º Semestre\Programacao 4\Aula3_introducao_2\UMFG.ProgramacaoIV.Aula15022024\UMFG.ProgramacaoIV.Dominio\obj\Debug\net7.0\ref\UMFG.ProgramacaoIV.Dominio.dll
